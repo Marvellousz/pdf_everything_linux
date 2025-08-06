@@ -1,4 +1,4 @@
-# PDF Everything for Linux
+# pdf everything for linux
 
 A lightweight command-line tool to convert various file formats to PDF on Linux systems.
 
